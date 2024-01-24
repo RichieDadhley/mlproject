@@ -25,5 +25,5 @@ setup(
     packages = find_packages(), # This is what searches for the __init__.py and finds scr
     # install_requires: provide a list of the packages you need, this will install all those libraries automatically. 
     # Here we use a function as we will need many packages.
-    install_requires = get_requirements('requirements.txt')
+    install_requires = get_requirements('requirements.txt') # run "pip install -r requirements.txt" in terminal
 )
