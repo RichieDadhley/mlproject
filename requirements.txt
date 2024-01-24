@@ -1,4 +1,13 @@
-pandas 
+pandas
 numpy
 seaborn
+matplotlib
+scikit-learn
+graphviz
+scipy
+plotly
+six
+xgboost
+Flask
+catboost
 -e .
