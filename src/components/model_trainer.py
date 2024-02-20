@@ -88,7 +88,7 @@ class ModelTrainer:
                 X_test=X_test, 
                 y_test=y_test, 
                 models=models, 
-                param = params
+                param=params
             )
 
             # Get best model score from dict
